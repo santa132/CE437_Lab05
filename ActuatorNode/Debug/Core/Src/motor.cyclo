@@ -1,0 +1,11 @@
+../Core/Src/motor.c:6:6:HAL_TIM_IC_CaptureCallback	1
+../Core/Src/motor.c:24:6:startEncoder	1
+../Core/Src/motor.c:30:6:updateEncoder	2
+../Core/Src/motor.c:46:6:motorInit	1
+../Core/Src/motor.c:66:9:scalePWM	1
+../Core/Src/motor.c:71:7:speedToPWM	1
+../Core/Src/motor.c:82:6:startMotor	1
+../Core/Src/motor.c:91:6:endMotor	1
+../Core/Src/motor.c:100:6:stopMotor	7
+../Core/Src/motor.c:107:6:goForward	7
+../Core/Src/motor.c:115:6:goReverse	7

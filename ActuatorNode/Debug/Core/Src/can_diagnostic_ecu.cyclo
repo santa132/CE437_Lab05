@@ -1,0 +1,7 @@
+../Core/Src/can_diagnostic_ecu.c:11:9:readDataByIdentifierResponse	4
+../Core/Src/can_diagnostic_ecu.c:55:9:writeDataByIdentifierResponse	5
+../Core/Src/can_diagnostic_ecu.c:101:9:securityAccessSeedGenerate	3
+../Core/Src/can_diagnostic_ecu.c:159:9:flowControlResponse	3
+../Core/Src/can_diagnostic_ecu.c:192:9:keyCheck	6
+../Core/Src/can_diagnostic_ecu.c:229:9:securityAccessKeyResponse	3
+../Core/Src/can_diagnostic_ecu.c:272:9:CANNegativeResponse	1

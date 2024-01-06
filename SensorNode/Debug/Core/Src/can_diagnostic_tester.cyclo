@@ -1,0 +1,9 @@
+../Core/Src/can_diagnostic_tester.c:9:6:writeShortDataByIdentifierRequest	1
+../Core/Src/can_diagnostic_tester.c:34:6:writeDataByIdenfierResponseCheck	2
+../Core/Src/can_diagnostic_tester.c:42:6:readDataByIdenfierRequest	1
+../Core/Src/can_diagnostic_tester.c:67:6:readDataByIdenfierResponseCheck	4
+../Core/Src/can_diagnostic_tester.c:83:6:securityAccessSeedRequest	1
+../Core/Src/can_diagnostic_tester.c:108:9:securityAccessSeedResponseCheck	3
+../Core/Src/can_diagnostic_tester.c:144:6:securityAccessUnlockRequest	1
+../Core/Src/can_diagnostic_tester.c:169:9:flowControlCheck	3
+../Core/Src/can_diagnostic_tester.c:179:6:securityRemainKeySend	1

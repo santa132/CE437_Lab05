@@ -1,0 +1,3 @@
+../Core/Src/can_project_sensor.c:8:6:CANSensorTransmit	1
+../Core/Src/can_project_sensor.c:32:6:CANResponseCheck	1
+../Core/Src/can_project_sensor.c:37:6:HAL_CAN_RxFifo1MsgPendingCallback	3

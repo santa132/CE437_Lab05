@@ -1,0 +1,2 @@
+../Core/Src/can_node_2.c:7:5:SAE_J1850_Calc	40	static
+../Core/Src/can_node_2.c:37:6:CAN_Transmit	24	static
